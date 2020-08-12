@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+            h1{
+                color:rgb(245, 22, 22);
+            }
+            p{
+                color:rgb(245, 237, 245);
+            }
+            body{
+                background-color:rgb(222, 149, 71);
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        <img src="https://www.kasandbox.org/programming-images/avatars/aqualine-ultimate.png">
+        
+        <p>The <em>dragon</em> is awesome because <strong>they can fly</strong>.</p>
+        
+    </body>
+</html>
