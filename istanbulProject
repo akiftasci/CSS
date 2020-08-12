@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        h2{
+            color:rgb(100,150,150);
+        }
+            .istanbul{
+                color:rgb(100,200,100);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Istanbul</h1>
+        <img src="https://cdn.getyourguide.com/img/tour/5c5c25ee018b0.jpeg/146.jpg" alt="Istanbul view" width="200">
+        
+        <h2>Reasons to travel Istanbul</h2>
+        <ol>
+            
+            <li>The city of four empires.</li>
+            <img src="https://i.hurimg.com/i/hdn/75/0x0/5eb9129067b0a91a4070d3b0.jpg" alt ="Histroical view">
+            <li>Istanbul where Asia meets Europe.</li>
+            <img src="https://en.wikipedia.org/wiki/Istanbul#/media/File:Istanbul_and_Bosporus_big.jpg" alt="Europe Asia">
+            <li>A city full of amazing landmarks.</li>
+            <li>Delicious Turkish food.</li>
+            <img src= "https://b.zmtcdn.com/data/pictures/3/207113/cb7b6cafe5ae4787e92d5a7ef11071ab.jpg" alt="Food">
+        </ol>
+        <h3>
+            Shopping in <class="istanbul">Istanbul
+        </h3>
+        <p>In your Istanbul visit, there are lots of malls that you can find everything you are looking for. Beside these malls, when you come to Istanbul you should visit district bazaars, shopping in <strong class="istanbul">Istanbul streets,</strong> and the touristic <em>Grand Bazaar</em> shopping tour and Spice Bazaar.</p>
+        <ul>
+            <li>Grand Bazaar</li>
+            <li>Eminönü</li>
+            <li>Fatih</li>
+        </ul>
+    </body>
+</html>
