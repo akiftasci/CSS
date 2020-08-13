@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        h1{
+            background-color: yellow;
+            font-family: fantasy;
+            font-size: 20px;
+            font-style: italic;
+            line-height: 1.5em;
+            text-align: center;
+        }
+        h2{
+            background-color: yellow;
+            font-family: fantasy;
+            font-size: 16px;
+            font-style: italic;
+            line-height: 1.5em;
+            text-align: center;
+        }
+        h6{
+            
+            font-family: fantasy;
+            font-size: 16px;
+            font-style: italic;
+            
+        }
+        
+        
+        
+              p {
+            color: rgb(0, 0, 0);
+            font-family: "Helvetica", sans-serif;
+        }
+        </style>
+    </head>
+    <body>
+        
+        <h1>Cristiano Ronaldo's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>First journey Man.United!</li>
+            <li>Hola Madrid!</li>
+            <li>Italian dream Juve</li>
+        </ul>
+        
+        <h2>First journey Man.United!</h2>
+        <h6>2003-2006</h6>
+        
+        <p>Ronaldo became Manchester United's first-ever Portuguese player when he signed before the 2003–04 season. His transfer fee of £12.24 million made him, at the time, the most expensive teenager in English football history. Although he requested the number 28, his number at Sporting, he received the number 7 shirt, which had previously been worn by such United players as George Best, Eric Cantona and David Beckham. Wearing the number 7 became an extra source of motivation for Ronaldo.[39] A key element in his development during his time in England proved to be his manager, Alex Ferguson, of whom he later said, "He's been my father in sport, one of the most important and influential factors in my career.</p>
+             <h2>Hola Madrid!</h2>
+        <h6>2009-2015</h6>
+        
+        <p>Ahead of the 2009–10 season, Ronaldo joined Real Madrid for a world record transfer fee at the time, of £80 million (€94 million). His contract, which ran until 2015, was worth €11 million per year and contained a €1 billion buy-out clause. At least 80,000 fans attended his presentation at the Santiago Bernabéu, surpassing the 25-year record of 75,000 fans who had welcomed Diego Maradona at Napoli. Since club captain Raúl already wore the number 7 (the number Ronaldo wore at Manchester United), Ronaldo received the number 9 shirt, which was presented to him by former Madrid player Alfredo Di Stéfano.</p>
+        
+        <h2>Italian Dream Juve!</h2>
+        <h6>2015-Still</h6>
+        
+        <p>On 10 July 2018, Ronaldo signed a four-year contract with Italian club Juventus after completing a €100 million transfer, which included an additional €12 million in other fees, and solidarity contributions to Ronaldo's youth clubs. The transfer was the highest ever for a player over 30 years old, and the highest ever paid by an Italian club. Upon signing, Ronaldo cited his need for a new challenge as his rationale for departing Real Madrid, but later attributed the transfer to the lack of support he felt was shown by club president Florentino Pérez.</p>
+        
+        
+    </body>
+</html>
