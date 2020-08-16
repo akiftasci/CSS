@@ -10,6 +10,7 @@
             .bananas{
                 color:rgb(184, 204, 74);
             }
+            
         </style>
     </head>
     <body>
